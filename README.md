@@ -1,7 +1,7 @@
 # Teacher & Student API
 
 A simple RESTful API for managing teachers and students.  
-Built with Laravel and tested using Postman.
+Built with Django and tested using Postman.
 
 ## Base URL
 
